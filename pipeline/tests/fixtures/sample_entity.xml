@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entities xmlns="https://sanctionslistservice.ofac.treas.gov/api/entities">
+<entity id="30629">
+  <generalInfo>
+    <identityId>22313</identityId>
+    <entityType refId="601">Entity</entityType>
+  </generalInfo>
+  <sanctionsLists>
+    <sanctionsList refId="1550" id="31269" datePublished="2020-12-21">SDN List</sanctionsList>
+  </sanctionsLists>
+  <sanctionsPrograms>
+    <sanctionsProgram refId="202" id="33166">CUBA</sanctionsProgram>
+  </sanctionsPrograms>
+  <sanctionsTypes>
+    <sanctionsType refId="1705" id="22787">Block</sanctionsType>
+  </sanctionsTypes>
+  <legalAuthorities>
+    <legalAuthority refId="91707" id="19621">Cuban Assets Control Regulations (CACR)</legalAuthority>
+  </legalAuthorities>
+  <names>
+    <name id="48173">
+      <isPrimary>true</isPrimary>
+      <isLowQuality>false</isLowQuality>
+      <translations>
+        <translation id="42433">
+          <isPrimary>true</isPrimary>
+          <script refId="20122">Latin</script>
+          <formattedLastName>KAVE COFFEE S.A.</formattedLastName>
+          <formattedFullName>KAVE COFFEE S.A.</formattedFullName>
+          <nameParts>
+            <namePart id="82583"><type refId="1521">First Name</type><value>Alaa</value></namePart>
+            <namePart id="82582"><type refId="1520">Last Name</type><value>AL-SAMAHI</value></namePart>
+            <namePart id="82584"><type refId="1522">Middle Name</type><value>Ali Ali Mohammed</value></namePart>
+          </nameParts>
+        </translation>
+      </translations>
+    </name>
+    <name id="48700">
+      <isPrimary>false</isPrimary>
+      <aliasType refId="1400">A.K.A.</aliasType>
+      <isLowQuality>false</isLowQuality>
+      <translations>
+        <translation id="43088">
+          <isPrimary>true</isPrimary>
+          <script refId="20122">Latin</script>
+          <formattedFirstName>Allaa</formattedFirstName>
+          <formattedLastName>AL-SAMAHY</formattedLastName>
+          <formattedFullName>AL-SAMAHY, Allaa</formattedFullName>
+          <nameParts>
+            <namePart id="82586"><type refId="1521">First Name</type><value>Allaa</value></namePart>
+            <namePart id="82585"><type refId="1520">Last Name</type><value>AL-SAMAHY</value></namePart>
+          </nameParts>
+        </translation>
+      </translations>
+    </name>
+  </names>
+  <addresses>
+    <address id="46835">
+      <country refId="11205">Turkey</country>
+      <translations>
+        <translation id="40943">
+          <isPrimary>true</isPrimary>
+          <script refId="20122">Latin</script>
+          <addressParts>
+            <addressPart id="53978">
+              <type refId="1454">CITY</type>
+              <value>Istanbul</value>
+            </addressPart>
+            <addressPart id="53979">
+              <type refId="1455">ADDRESS1</type>
+              <value>123 Example Street</value>
+            </addressPart>
+          </addressParts>
+        </translation>
+      </translations>
+    </address>
+  </addresses>
+  <features>
+    <feature id="39086">
+      <type featureTypeId="8">Birthdate</type>
+      <versionId>36805</versionId>
+      <value>08 Sep 1976</value>
+      <valueDate id="53731">
+        <fromDateBegin>1976-09-08</fromDateBegin>
+        <fromDateEnd>1976-09-08</fromDateEnd>
+        <toDateBegin>1976-09-08</toDateBegin>
+        <toDateEnd>1976-09-08</toDateEnd>
+        <isApproximate>false</isApproximate>
+        <isDateRange>false</isDateRange>
+      </valueDate>
+      <isPrimary>true</isPrimary>
+    </feature>
+    <feature id="39087">
+      <type featureTypeId="8">Birthdate</type>
+      <versionId>36806</versionId>
+      <value>1981</value>
+      <valueDate id="53732">
+        <fromDateBegin>1981-01-01</fromDateBegin>
+        <fromDateEnd>1981-01-01</fromDateEnd>
+        <toDateBegin>1981-12-31</toDateBegin>
+        <toDateEnd>1981-12-31</toDateEnd>
+        <isApproximate>false</isApproximate>
+        <isDateRange>false</isDateRange>
+      </valueDate>
+      <isPrimary>false</isPrimary>
+    </feature>
+    <feature id="39088">
+      <type featureTypeId="224">Gender</type>
+      <versionId>36807</versionId>
+      <value>Male</value>
+      <valueRefId>91526</valueRefId>
+      <isPrimary>true</isPrimary>
+    </feature>
+  </features>
+</entity>
+</entities>

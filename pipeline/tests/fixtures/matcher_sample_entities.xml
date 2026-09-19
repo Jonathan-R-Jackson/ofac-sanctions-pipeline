@@ -1,0 +1,2132 @@
+<sanctionsData><entities>
+<entity id="26686">
+      <generalInfo>
+        <identityId>18390</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27058" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28362">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18784">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15089">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42110">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35917">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Azamat</formattedFirstName>
+              <formattedLastName>SAFAROV</formattedLastName>
+              <formattedFullName>SAFAROV, Azamat</formattedFullName>
+              <nameParts>
+                <namePart id="69392">
+                  <type refId="1521">First Name</type>
+                  <value>Azamat</value>
+                </namePart>
+                <namePart id="69391">
+                  <type refId="1520">Last Name</type>
+                  <value>Safarov</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40462">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36446">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53978">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31346">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29085</versionId>
+          <value>26 Mar 1990</value>
+          <valueDate id="42050">
+            <fromDateBegin>1990-03-26</fromDateBegin>
+            <fromDateEnd>1990-03-26</fromDateEnd>
+            <toDateBegin>1990-03-26</toDateBegin>
+            <toDateEnd>1990-03-26</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31347">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29086</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31348">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29087</versionId>
+          <value>Uzbekistan</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54600">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52279</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17337">
+          <type refId="1584">National ID No.</type>
+          <name nameId="42110" nameTranslationId="35917">SAFAROV, Azamat</name>
+          <documentNumber>CE2236830</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11214">Uzbekistan</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8253">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26665">
+      <generalInfo>
+        <identityId>18369</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27037" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28341">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18763">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15068">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42077">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35877">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Dmitriy Konstantinovich</formattedFirstName>
+              <formattedLastName>SMIRNOV</formattedLastName>
+              <formattedFullName>SMIRNOV, Dmitriy Konstantinovich</formattedFullName>
+              <nameParts>
+                <namePart id="73415">
+                  <type refId="1521">First Name</type>
+                  <value>Dmitriy</value>
+                </namePart>
+                <namePart id="73414">
+                  <type refId="1520">Last Name</type>
+                  <value>Smirnov</value>
+                </namePart>
+                <namePart id="73416">
+                  <type refId="1522">Middle Name</type>
+                  <value>Konstantinovich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40423">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36428">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53943">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31295">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29034</versionId>
+          <value>10 Nov 1987</value>
+          <valueDate id="41910">
+            <fromDateBegin>1987-11-10</fromDateBegin>
+            <fromDateEnd>1987-11-10</fromDateEnd>
+            <toDateBegin>1987-11-10</toDateBegin>
+            <toDateEnd>1987-11-10</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31296">
+          <type featureTypeId="11">Citizenship Country</type>
+          <versionId>29035</versionId>
+          <value>Russia</value>
+          <valueRefId>11171</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31297">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29036</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54621">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52300</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="8242">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26666">
+      <generalInfo>
+        <identityId>18370</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27038" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28342">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18764">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15069">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42078">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35878">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Artem Viktorovich</formattedFirstName>
+              <formattedLastName>YAKUBETS</formattedLastName>
+              <formattedFullName>YAKUBETS, Artem Viktorovich</formattedFullName>
+              <nameParts>
+                <namePart id="73418">
+                  <type refId="1521">First Name</type>
+                  <value>Artem</value>
+                </namePart>
+                <namePart id="73417">
+                  <type refId="1520">Last Name</type>
+                  <value>Yakubets</value>
+                </namePart>
+                <namePart id="73419">
+                  <type refId="1522">Middle Name</type>
+                  <value>Viktorovich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40425">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36429">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53944">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31298">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29037</versionId>
+          <value>17 Jan 1986</value>
+          <valueDate id="41912">
+            <fromDateBegin>1986-01-17</fromDateBegin>
+            <fromDateEnd>1986-01-17</fromDateEnd>
+            <toDateBegin>1986-01-17</toDateBegin>
+            <toDateEnd>1986-01-17</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31300">
+          <type featureTypeId="11">Citizenship Country</type>
+          <versionId>29039</versionId>
+          <value>Russia</value>
+          <valueRefId>11171</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31299">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29038</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31301">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29040</versionId>
+          <value>Polonnoye, Khmelnitskaya Oblast, Ukraine</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54615">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52294</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="8243">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26667">
+      <generalInfo>
+        <identityId>18371</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27039" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28343">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18765">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15070">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42079">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35879">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ivan Dmitriyevich</formattedFirstName>
+              <formattedLastName>TUCHKOV</formattedLastName>
+              <formattedFullName>TUCHKOV, Ivan Dmitriyevich</formattedFullName>
+              <nameParts>
+                <namePart id="73421">
+                  <type refId="1521">First Name</type>
+                  <value>Ivan</value>
+                </namePart>
+                <namePart id="73420">
+                  <type refId="1520">Last Name</type>
+                  <value>Tuchkov</value>
+                </namePart>
+                <namePart id="73422">
+                  <type refId="1522">Middle Name</type>
+                  <value>Dmitriyevich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="42272">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="37640">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31302">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29041</versionId>
+          <value>27 Nov 1986</value>
+          <valueDate id="41914">
+            <fromDateBegin>1986-11-27</fromDateBegin>
+            <fromDateEnd>1986-11-27</fromDateEnd>
+            <toDateBegin>1986-11-27</toDateBegin>
+            <toDateEnd>1986-11-27</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31304">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29043</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31303">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29042</versionId>
+          <value>Moscow, Russia</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54608">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52287</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17299">
+          <type refId="1571">Passport</type>
+          <name nameId="42079" nameTranslationId="35879">TUCHKOV, Ivan Dmitriyevich</name>
+          <documentNumber>45092006504</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17300">
+          <type refId="1571">Passport</type>
+          <name nameId="42079" nameTranslationId="35879">TUCHKOV, Ivan Dmitriyevich</name>
+          <documentNumber>753931329</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17301">
+          <type refId="1630">VisaNumberID</type>
+          <name nameId="42079" nameTranslationId="35879">TUCHKOV, Ivan Dmitriyevich</name>
+          <documentNumber>525867504</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11090">France</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8245">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26668">
+      <generalInfo>
+        <identityId>18372</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27040" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28344">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18766">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15071">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42080">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35880">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Andrey</formattedFirstName>
+              <formattedLastName>PLOTNITSKIY</formattedLastName>
+              <formattedFullName>PLOTNITSKIY, Andrey</formattedFullName>
+              <nameParts>
+                <namePart id="69308">
+                  <type refId="1521">First Name</type>
+                  <value>Andrey</value>
+                </namePart>
+                <namePart id="69307">
+                  <type refId="1520">Last Name</type>
+                  <value>Plotnitskiy</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42081">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35881">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Andrey</formattedFirstName>
+              <formattedLastName>STREL</formattedLastName>
+              <formattedFullName>STREL, Andrey</formattedFullName>
+              <nameParts>
+                <namePart id="69310">
+                  <type refId="1521">First Name</type>
+                  <value>Andrey</value>
+                </namePart>
+                <namePart id="69309">
+                  <type refId="1520">Last Name</type>
+                  <value>Strel</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42082">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35882">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Andrey Vechislavovich</formattedFirstName>
+              <formattedLastName>KOVALSKIY</formattedLastName>
+              <formattedFullName>KOVALSKIY, Andrey Vechislavovich</formattedFullName>
+              <nameParts>
+                <namePart id="73427">
+                  <type refId="1521">First Name</type>
+                  <value>Andrey</value>
+                </namePart>
+                <namePart id="73426">
+                  <type refId="1520">Last Name</type>
+                  <value>Kovalskiy</value>
+                </namePart>
+                <namePart id="73428">
+                  <type refId="1522">Middle Name</type>
+                  <value>Vechislavovich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40428">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36430">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53945">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31305">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29044</versionId>
+          <value>25 Jul 1989</value>
+          <valueDate id="41924">
+            <fromDateBegin>1989-07-25</fromDateBegin>
+            <fromDateEnd>1989-07-25</fromDateEnd>
+            <toDateBegin>1989-07-25</toDateBegin>
+            <toDateEnd>1989-07-25</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31306">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29045</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54590">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52269</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="8246">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26669">
+      <generalInfo>
+        <identityId>18373</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27041" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28345">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18767">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15072">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42083">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35883">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Dmitriy Alekseyevich</formattedFirstName>
+              <formattedLastName>SLOBODSKOY</formattedLastName>
+              <formattedFullName>SLOBODSKOY, Dmitriy Alekseyevich</formattedFullName>
+              <nameParts>
+                <namePart id="73424">
+                  <type refId="1521">First Name</type>
+                  <value>Dmitriy</value>
+                </namePart>
+                <namePart id="73423">
+                  <type refId="1520">Last Name</type>
+                  <value>Slobodskoy</value>
+                </namePart>
+                <namePart id="73425">
+                  <type refId="1522">Middle Name</type>
+                  <value>Alekseyevich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="42273">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="37641">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31307">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29046</versionId>
+          <value>28 Jul 1988</value>
+          <valueDate id="41926">
+            <fromDateBegin>1988-07-28</fromDateBegin>
+            <fromDateEnd>1988-07-28</fromDateEnd>
+            <toDateBegin>1988-07-28</toDateBegin>
+            <toDateEnd>1988-07-28</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31308">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29047</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54619">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52298</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17302">
+          <type refId="1571">Passport</type>
+          <name nameId="42083" nameTranslationId="35883">SLOBODSKOY, Dmitriy Alekseyevich</name>
+          <documentNumber>721007353</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8247">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26670">
+      <generalInfo>
+        <identityId>18374</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27042" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28346">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18768">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15073">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42084">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35884">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Igor Olegovich</formattedFirstName>
+              <formattedLastName>TURASHEV</formattedLastName>
+              <formattedFullName>TURASHEV, Igor Olegovich</formattedFullName>
+              <nameParts>
+                <namePart id="73430">
+                  <type refId="1521">First Name</type>
+                  <value>Igor</value>
+                </namePart>
+                <namePart id="73429">
+                  <type refId="1520">Last Name</type>
+                  <value>Turashev</value>
+                </namePart>
+                <namePart id="73431">
+                  <type refId="1522">Middle Name</type>
+                  <value>Olegovich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42085">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="35885">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>NINTUTU</formattedLastName>
+              <formattedFullName>NINTUTU</formattedFullName>
+              <nameParts>
+                <namePart id="69320">
+                  <type refId="1520">Last Name</type>
+                  <value>Nintutu</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42086">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="35886">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ENKI</formattedLastName>
+              <formattedFullName>ENKI</formattedFullName>
+              <nameParts>
+                <namePart id="69321">
+                  <type refId="1520">Last Name</type>
+                  <value>Enki</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40431">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36431">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31310">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29049</versionId>
+          <value>15 Jun 1981</value>
+          <valueDate id="41932">
+            <fromDateBegin>1981-06-15</fromDateBegin>
+            <fromDateEnd>1981-06-15</fromDateEnd>
+            <toDateBegin>1981-06-15</toDateBegin>
+            <toDateEnd>1981-06-15</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31309">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29048</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54609">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52288</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="8248">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26671">
+      <generalInfo>
+        <identityId>18375</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27043" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28347">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18769">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15074">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42087">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35887">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Denis Igorevich</formattedFirstName>
+              <formattedLastName>GUSEV</formattedLastName>
+              <formattedFullName>GUSEV, Denis Igorevich</formattedFullName>
+              <nameParts>
+                <namePart id="73433">
+                  <type refId="1521">First Name</type>
+                  <value>Denis</value>
+                </namePart>
+                <namePart id="73432">
+                  <type refId="1520">Last Name</type>
+                  <value>Gusev</value>
+                </namePart>
+                <namePart id="73434">
+                  <type refId="1522">Middle Name</type>
+                  <value>Igorevich</value>
+                </namePart>
+              </nameParts>
+            </translation>
+            <translation id="35890">
+              <isPrimary>false</isPrimary>
+              <script refId="20107">Cyrillic</script>
+              <formattedFirstName>ДЕНИС ИГОРЕВИЧ</formattedFirstName>
+              <formattedLastName>ГУСЕВ</formattedLastName>
+              <formattedFullName>ГУСЕВ, ДЕНИС ИГОРЕВИЧ</formattedFullName>
+              <nameParts>
+                <namePart id="69430">
+                  <type refId="1521">First Name</type>
+                  <value>ДЕНИС</value>
+                </namePart>
+                <namePart id="69429">
+                  <type refId="1520">Last Name</type>
+                  <value>ГУСЕВ</value>
+                </namePart>
+                <namePart id="69431">
+                  <type refId="1522">Middle Name</type>
+                  <value>ИГОРЕВИЧ</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42088">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35888">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Marin</formattedFirstName>
+              <formattedLastName>POMOJAC</formattedLastName>
+              <formattedFullName>POMOJAC, Marin</formattedFullName>
+              <nameParts>
+                <namePart id="69325">
+                  <type refId="1521">First Name</type>
+                  <value>Marin</value>
+                </namePart>
+                <namePart id="69324">
+                  <type refId="1520">Last Name</type>
+                  <value>Pomojac</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42089">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35889">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>David</formattedFirstName>
+              <formattedLastName>GOTMAN</formattedLastName>
+              <formattedFullName>GOTMAN, David</formattedFullName>
+              <nameParts>
+                <namePart id="69327">
+                  <type refId="1521">First Name</type>
+                  <value>David</value>
+                </namePart>
+                <namePart id="69326">
+                  <type refId="1520">Last Name</type>
+                  <value>Gotman</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="42092">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="37460">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="56031">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31353">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29092</versionId>
+          <value>10 Jun 1986</value>
+          <valueDate id="42065">
+            <fromDateBegin>1986-06-10</fromDateBegin>
+            <fromDateEnd>1986-06-10</fromDateEnd>
+            <toDateBegin>1986-06-10</toDateBegin>
+            <toDateEnd>1986-06-10</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31314">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29053</versionId>
+          <value>08 Jul 1977</value>
+          <valueDate id="41937">
+            <fromDateBegin>1977-07-08</fromDateBegin>
+            <fromDateEnd>1977-07-08</fromDateEnd>
+            <toDateBegin>1977-07-08</toDateBegin>
+            <toDateEnd>1977-07-08</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="31316">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29055</versionId>
+          <value>07 Oct 1987</value>
+          <valueDate id="41941">
+            <fromDateBegin>1987-10-07</fromDateBegin>
+            <fromDateEnd>1987-10-07</fromDateEnd>
+            <toDateBegin>1987-10-07</toDateBegin>
+            <toDateEnd>1987-10-07</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="31311">
+          <type featureTypeId="11">Citizenship Country</type>
+          <versionId>29050</versionId>
+          <value>Russia</value>
+          <valueRefId>11171</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31312">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29051</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31313">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29052</versionId>
+          <value>Moscow, Russia</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31315">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29054</versionId>
+          <value>Ceadir-Lunga, Moldova</value>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="54565">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52244</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17303">
+          <type refId="1571">Passport</type>
+          <name nameId="42087" nameTranslationId="35887">GUSEV, Denis Igorevich</name>
+          <documentNumber>717386212</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17304">
+          <type refId="1571">Passport</type>
+          <name nameId="42088" nameTranslationId="35888">POMOJAC, Marin</name>
+          <documentNumber>A1167292</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11145">Moldova</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17305">
+          <type refId="1571">Passport</type>
+          <name nameId="42089" nameTranslationId="35889">GOTMAN, David</name>
+          <documentNumber>1213007</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11112">Israel</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8249">
+          <type refId="15002">Acting for or on behalf of</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26673">
+      <generalInfo>
+        <identityId>18377</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27045" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28349">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18771">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15076">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42092">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35894">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>OPTIMA, OOO</formattedLastName>
+              <formattedFullName>OPTIMA, OOO</formattedFullName>
+              <nameParts>
+                <namePart id="69337">
+                  <type refId="1525">Entity Name</type>
+                  <value>Optima, OOO</value>
+                </namePart>
+              </nameParts>
+            </translation>
+            <translation id="35895">
+              <isPrimary>false</isPrimary>
+              <script refId="20107">Cyrillic</script>
+              <formattedLastName>ООО ОПТИМА</formattedLastName>
+              <formattedFullName>ООО ОПТИМА</formattedFullName>
+              <nameParts>
+                <namePart id="69338">
+                  <type refId="1525">Entity Name</type>
+                  <value>ООО Оптима</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42093">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35896">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU OPTIMA</formattedLastName>
+              <formattedFullName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU OPTIMA</formattedFullName>
+              <nameParts>
+                <namePart id="69339">
+                  <type refId="1525">Entity Name</type>
+                  <value>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU Optima</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40436">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36433">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53950">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>d. 2 korp. 2 pom. 1, ul.</value>
+                </addressPart>
+                <addressPart id="53951">
+                  <type refId="1452">ADDRESS2</type>
+                  <value>Kominterna Moscow</value>
+                </addressPart>
+                <addressPart id="53952">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+                <addressPart id="53953">
+                  <type refId="1456">POSTAL CODE</type>
+                  <value>129344</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31317">
+          <type featureTypeId="364">D-U-N-S Number</type>
+          <versionId>29056</versionId>
+          <value>50-579-8144</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54589">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52268</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17310">
+          <type refId="1636">Government Gazette Number</type>
+          <name nameId="42092" nameTranslationId="35894">OPTIMA, OOO</name>
+          <documentNumber>17325717</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17309">
+          <type refId="91761">Registration Number</type>
+          <name nameId="42092" nameTranslationId="35894">OPTIMA, OOO</name>
+          <documentNumber>1137746232260</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17311">
+          <type refId="1596">Tax ID No.</type>
+          <name nameId="42092" nameTranslationId="35894">OPTIMA, OOO</name>
+          <documentNumber>7716740680</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8237">
+          <type refId="15003">Owned or Controlled By</type>
+          <relatedEntity entityId="26671">GUSEV, Denis Igorevich</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26674">
+      <generalInfo>
+        <identityId>18378</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27046" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28350">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18772">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15077">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42094">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35897">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>TREID-INVEST, OOO</formattedLastName>
+              <formattedFullName>TREID-INVEST, OOO</formattedFullName>
+              <nameParts>
+                <namePart id="69340">
+                  <type refId="1525">Entity Name</type>
+                  <value>Treid-Invest, OOO</value>
+                </namePart>
+              </nameParts>
+            </translation>
+            <translation id="35898">
+              <isPrimary>false</isPrimary>
+              <script refId="20107">Cyrillic</script>
+              <formattedLastName>ООО ТРЕЙД-ИНВЕСТ</formattedLastName>
+              <formattedFullName>ООО ТРЕЙД-ИНВЕСТ</formattedFullName>
+              <nameParts>
+                <namePart id="69341">
+                  <type refId="1525">Entity Name</type>
+                  <value>ООО ТРЕЙД-ИНВЕСТ</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="42095">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35899">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TREID-INVEST</formattedLastName>
+              <formattedFullName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TREID-INVEST</formattedFullName>
+              <nameParts>
+                <namePart id="69342">
+                  <type refId="1525">Entity Name</type>
+                  <value>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU Treid-Invest</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40438">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36434">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53954">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>11/2, ul.</value>
+                </addressPart>
+                <addressPart id="53955">
+                  <type refId="1452">ADDRESS2</type>
+                  <value>Sadovaya-Chernogryazskaya Moscow</value>
+                </addressPart>
+                <addressPart id="53956">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+                <addressPart id="53957">
+                  <type refId="1456">POSTAL CODE</type>
+                  <value>105064</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31319">
+          <type featureTypeId="364">D-U-N-S Number</type>
+          <versionId>29058</versionId>
+          <value>50-722-5114</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54604">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52283</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17313">
+          <type refId="1636">Government Gazette Number</type>
+          <name nameId="42094" nameTranslationId="35897">TREID-INVEST, OOO</name>
+          <documentNumber>40214946</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17312">
+          <type refId="91761">Registration Number</type>
+          <name nameId="42094" nameTranslationId="35897">TREID-INVEST, OOO</name>
+          <documentNumber>5147746418782</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="17314">
+          <type refId="1596">Tax ID No.</type>
+          <name nameId="42094" nameTranslationId="35897">TREID-INVEST, OOO</name>
+          <documentNumber>7701416320</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8238">
+          <type refId="15003">Owned or Controlled By</type>
+          <relatedEntity entityId="26671">GUSEV, Denis Igorevich</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26685">
+      <generalInfo>
+        <identityId>18389</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27057" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28361">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18783">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15088">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42109">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35916">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Tatiana</formattedFirstName>
+              <formattedLastName>SHEVCHUK</formattedLastName>
+              <formattedFullName>SHEVCHUK, Tatiana</formattedFullName>
+              <nameParts>
+                <namePart id="69390">
+                  <type refId="1521">First Name</type>
+                  <value>Tatiana</value>
+                </namePart>
+                <namePart id="69389">
+                  <type refId="1520">Last Name</type>
+                  <value>Shevchuk</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40460">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36445">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53977">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31344">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29083</versionId>
+          <value>08 Jan 1970</value>
+          <valueDate id="42044">
+            <fromDateBegin>1970-01-08</fromDateBegin>
+            <fromDateEnd>1970-01-08</fromDateEnd>
+            <toDateBegin>1970-01-08</toDateBegin>
+            <toDateEnd>1970-01-08</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31345">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29084</versionId>
+          <value>Female</value>
+          <valueRefId>91527</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54617">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52296</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17335">
+          <type refId="1584">National ID No.</type>
+          <name nameId="42109" nameTranslationId="35916">SHEVCHUK, Tatiana</name>
+          <documentNumber>BB299742</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11209">Ukraine</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8258">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26680">
+      <generalInfo>
+        <identityId>18384</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27052" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28356">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18778">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15083">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42104">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35911">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Aleksei</formattedFirstName>
+              <formattedLastName>BASHLIKOV</formattedLastName>
+              <formattedFullName>BASHLIKOV, Aleksei</formattedFullName>
+              <nameParts>
+                <namePart id="69380">
+                  <type refId="1521">First Name</type>
+                  <value>Aleksei</value>
+                </namePart>
+                <namePart id="69379">
+                  <type refId="1520">Last Name</type>
+                  <value>Bashlikov</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40450">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36440">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53972">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31331">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29070</versionId>
+          <value>18 Mar 1988</value>
+          <valueDate id="42020">
+            <fromDateBegin>1988-03-18</fromDateBegin>
+            <fromDateEnd>1988-03-18</fromDateEnd>
+            <toDateBegin>1988-03-18</toDateBegin>
+            <toDateEnd>1988-03-18</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31332">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29071</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31333">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29072</versionId>
+          <value>Russia</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54535">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52214</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17328">
+          <type refId="1571">Passport</type>
+          <name nameId="42104" nameTranslationId="35911">BASHLIKOV, Aleksei</name>
+          <documentNumber>4509592875</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11171">Russia</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8255">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26681">
+      <generalInfo>
+        <identityId>18385</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27053" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28357">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18779">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15084">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42105">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35912">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ruslan</formattedFirstName>
+              <formattedLastName>ZAMULKO</formattedLastName>
+              <formattedFullName>ZAMULKO, Ruslan</formattedFullName>
+              <nameParts>
+                <namePart id="69382">
+                  <type refId="1521">First Name</type>
+                  <value>Ruslan</value>
+                </namePart>
+                <namePart id="69381">
+                  <type refId="1520">Last Name</type>
+                  <value>Zamulko</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40452">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36441">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53973">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31334">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29073</versionId>
+          <value>25 Jun 1970</value>
+          <valueDate id="42024">
+            <fromDateBegin>1970-06-25</fromDateBegin>
+            <fromDateEnd>1970-06-25</fromDateEnd>
+            <toDateBegin>1970-06-25</toDateBegin>
+            <toDateEnd>1970-06-25</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31336">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29075</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31335">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29074</versionId>
+          <value>Ukraine</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54552">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52231</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17329">
+          <type refId="1584">National ID No.</type>
+          <name nameId="42105" nameTranslationId="35912">ZAMULKO, Ruslan</name>
+          <documentNumber>HB698865</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11209">Ukraine</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8256">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26682">
+      <generalInfo>
+        <identityId>18386</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27054" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28358">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18780">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15085">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42106">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35913">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>David</formattedFirstName>
+              <formattedLastName>GUBERMAN</formattedLastName>
+              <formattedFullName>GUBERMAN, David</formattedFullName>
+              <nameParts>
+                <namePart id="69384">
+                  <type refId="1521">First Name</type>
+                  <value>David</value>
+                </namePart>
+                <namePart id="69383">
+                  <type refId="1520">Last Name</type>
+                  <value>Guberman</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40454">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36442">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53974">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31338">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29077</versionId>
+          <value>01 Mar 1971</value>
+          <valueDate id="42028">
+            <fromDateBegin>1971-03-01</fromDateBegin>
+            <fromDateEnd>1971-03-01</fromDateEnd>
+            <toDateBegin>1971-03-01</toDateBegin>
+            <toDateEnd>1971-03-01</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31339">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29078</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31337">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29076</versionId>
+          <value>Ukraine</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54564">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52243</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17330">
+          <type refId="1584">National ID No.</type>
+          <name nameId="42106" nameTranslationId="35913">GUBERMAN, David</name>
+          <documentNumber>7201105</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11112">Israel</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8254">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="26683">
+      <generalInfo>
+        <identityId>18387</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="27055" datePublished="2019-12-05">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="91741" id="28359">CYBER2</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="18781">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority refId="91711" id="15086">Executive Order 13694 (Cyber)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="42107">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="35914">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Carlos</formattedFirstName>
+              <formattedLastName>ALVARES</formattedLastName>
+              <formattedFullName>ALVARES, Carlos</formattedFullName>
+              <nameParts>
+                <namePart id="69386">
+                  <type refId="1521">First Name</type>
+                  <value>Carlos</value>
+                </namePart>
+                <namePart id="69385">
+                  <type refId="1520">Last Name</type>
+                  <value>Alvares</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="40456">
+          <country refId="11171">Russia</country>
+          <translations>
+            <translation id="36443">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="53975">
+                  <type refId="1454">CITY</type>
+                  <value>Moscow</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="31340">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>29079</versionId>
+          <value>18 May 1971</value>
+          <valueDate id="42032">
+            <fromDateBegin>1971-05-18</fromDateBegin>
+            <fromDateEnd>1971-05-18</fromDateEnd>
+            <toDateBegin>1971-05-18</toDateBegin>
+            <toDateEnd>1971-05-18</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31364">
+          <type featureTypeId="224">Gender</type>
+          <versionId>29103</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="31341">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>29080</versionId>
+          <value>Spain</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="54530">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>52209</versionId>
+          <value>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201</value>
+          <valueRefId>92127</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="17331">
+          <type refId="1584">National ID No.</type>
+          <name nameId="42107" nameTranslationId="35914">ALVARES, Carlos</name>
+          <documentNumber>AV176942</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11190">Spain</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="8252">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="26664">EVIL CORP</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+<entity id="9564">
+      <generalInfo>
+        <identityId>1444</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList refId="1550" id="1444" datePublished="2005-11-09">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram refId="212" id="8473">SDNT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType refId="1705" id="5877">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities />
+      <names>
+        <name id="16643">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="1444">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ramon Alberto</formattedFirstName>
+              <formattedLastName>QUINTERO SANCLEMENTE</formattedLastName>
+              <formattedFullName>QUINTERO SANCLEMENTE, Ramon Alberto</formattedFullName>
+              <nameParts>
+                <namePart id="2133">
+                  <type refId="1521">First Name</type>
+                  <value>Ramon Alberto</value>
+                </namePart>
+                <namePart id="2132">
+                  <type refId="1520">Last Name</type>
+                  <value>QUINTERO SANCLEMENTE</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="12545">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="9705">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>LUCAS</formattedLastName>
+              <formattedFullName>LUCAS</formattedFullName>
+              <nameParts>
+                <namePart id="14446">
+                  <type refId="1520">Last Name</type>
+                  <value>LUCAS</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="12546">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="9706">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>EL INGENIERO</formattedLastName>
+              <formattedFullName>EL INGENIERO</formattedFullName>
+              <nameParts>
+                <namePart id="14447">
+                  <type refId="1520">Last Name</type>
+                  <value>EL INGENIERO</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="12547">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="9707">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>DON TOMAS</formattedLastName>
+              <formattedFullName>DON TOMAS</formattedFullName>
+              <nameParts>
+                <namePart id="14448">
+                  <type refId="1520">Last Name</type>
+                  <value>DON TOMAS</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="11950">
+          <country refId="11066">Colombia</country>
+          <translations>
+            <translation id="10790">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="23199">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>Carrera 16 No. 3-15</value>
+                </addressPart>
+                <addressPart id="23200">
+                  <type refId="1454">CITY</type>
+                  <value>Buga</value>
+                </addressPart>
+                <addressPart id="23201">
+                  <type refId="1455">STATE/PROVINCE</type>
+                  <value>Valle</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+        <address id="11951">
+          <country refId="11066">Colombia</country>
+          <translations>
+            <translation id="10791">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="23202">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>Calle 115 No. 9-50</value>
+                </addressPart>
+                <addressPart id="23203">
+                  <type refId="1454">CITY</type>
+                  <value>Bogota</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="4575">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>1159</versionId>
+          <value>30 Nov 1960</value>
+          <valueDate id="477">
+            <fromDateBegin>1960-11-30</fromDateBegin>
+            <fromDateEnd>1960-11-30</fromDateEnd>
+            <toDateBegin>1960-11-30</toDateBegin>
+            <toDateEnd>1960-11-30</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="7263">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>1163</versionId>
+          <value>28 Nov 1958</value>
+          <valueDate id="478">
+            <fromDateBegin>1958-11-28</fromDateBegin>
+            <fromDateEnd>1958-11-28</fromDateEnd>
+            <toDateBegin>1958-11-28</toDateBegin>
+            <toDateEnd>1958-11-28</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="7264">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>1164</versionId>
+          <value>30 Nov 1961</value>
+          <valueDate id="479">
+            <fromDateBegin>1961-11-30</fromDateBegin>
+            <fromDateEnd>1961-11-30</fromDateEnd>
+            <toDateBegin>1961-11-30</toDateBegin>
+            <toDateEnd>1961-11-30</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="4578">
+          <type featureTypeId="11">Citizenship Country</type>
+          <versionId>1162</versionId>
+          <value>Colombia</value>
+          <valueRefId>11066</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="4576">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>1160</versionId>
+          <value>Cali, Colombia</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="4577">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>1161</versionId>
+          <value>Buga, Valle, Colombia</value>
+          <isPrimary>false</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="4212">
+          <type refId="1570">Cedula No.</type>
+          <name nameId="16643" nameTranslationId="1444">QUINTERO SANCLEMENTE, Ramon Alberto</name>
+          <documentNumber>14881147</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11066">Colombia</issuingCountry>
+        </identityDocument>
+        <identityDocument id="4213">
+          <type refId="1571">Passport</type>
+          <name nameId="16643" nameTranslationId="1444">QUINTERO SANCLEMENTE, Ramon Alberto</name>
+          <documentNumber>AE048871</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11066">Colombia</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+    </entity>
+</entities></sanctionsData>

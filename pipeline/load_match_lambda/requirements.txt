@@ -1,0 +1,18 @@
+# Deployment dependencies. Neither is part of Lambda's default Python
+# runtime, so both need to be bundled into this function's zip, not
+# just its own .py files.
+pg8000
+rapidfuzz
+# numpy: NOT declared as a rapidfuzz dependency (`pip show rapidfuzz`
+# lists none), but rapidfuzz.process.cdist imports it lazily at call
+# time. This was masked in local testing because numpy happened to
+# already be present there for an unrelated reason; Lambda's actual
+# runtime has no such luck, hence the ModuleNotFoundError on first
+# real invocation. Explicit here so the Docker-based build actually
+# includes it.
+numpy
+# faker: pure Python, no compiled component, so unlike the three
+# above this doesn't strictly need the Docker build to be safe, but
+# it's included in the same Docker run for consistency, so the
+# build command you already know doesn't need to change.
+faker

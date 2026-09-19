@@ -1,0 +1,10 @@
+# Dev/test dependencies for running this repo's test suite locally
+# or in CI. Not the same as load_match_lambda/requirements.txt,
+# that one is what actually gets deployed; this one is everything
+# needed to run pytest against it.
+boto3
+pg8000
+pytest
+rapidfuzz
+numpy
+faker
