@@ -18,11 +18,11 @@ No manual steps. No stored passwords. No public database endpoint.
 
 ```mermaid
 flowchart LR
-    EB["EventBridge Scheduler\ndaily, 4 AM ET"] --> EL["Extract Lambda\n(no VPC)"]
-    EL <-->|"REST API"| OFAC["OFAC Sanctions\nList Service"]
-    EL -->|"raw XML + manifest"| S3[("S3 staging bucket")]
-    S3 -->|"S3 event on manifest/"| LL["Load/Match Lambda\n(private VPC)"]
-    LL <-->|"IAM auth, no password"| RDS[("RDS Postgres")]
+    EB["EventBridge Scheduler<br/>daily, 4 AM ET"] --> EL["Extract Lambda<br/>no VPC"]
+    EL -->|"calls REST API"| OFAC["OFAC Sanctions<br/>List Service"]
+    EL -->|"raw XML plus manifest"| S3["S3 staging bucket"]
+    S3 -->|"S3 event on manifest prefix"| LL["Load/Match Lambda<br/>private VPC"]
+    LL -->|"IAM auth, no password"| RDS["RDS Postgres"]
 ```
 
 Two Lambda functions, split by what each one actually needs to reach, not by what step they perform:
